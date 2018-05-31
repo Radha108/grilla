@@ -1,0 +1,30 @@
+.claseUno{
+  height: 100px;
+  border: 1px solid blueviolet;
+  background-color: azure;
+}
+.claseDos{
+  height: 100px;
+  border: 1px solid blueviolet;
+  background-color: cadetblue;
+}
+.claseTres{
+  height: 100px;
+  border: 1px solid blueviolet;
+  background-color: brown
+}
+.claseCuatro{
+  height: 100px;
+  border: 1px solid blueviolet;
+  background-color: green
+}
+.claseCinco{
+  height: 100px;
+  border:1px solid blueviolet;
+  background-color: palevioletred;
+}
+.claseUltima{
+  height: 100px;
+  border: 1px solid blueviolet;
+  background-color: black;
+}
